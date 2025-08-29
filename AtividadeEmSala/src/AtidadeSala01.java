@@ -1,4 +1,4 @@
-public class AtidadeEmSala01 {
+public class AtidadeSala01 {
 
    public static void main(String[]args) {
        String nome = "";
