@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.Scanner;
 public class AtividadeSala16 {
 
     public static int fatorial(int valor){
